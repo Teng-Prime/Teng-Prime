@@ -2,7 +2,7 @@
 
 🇰🇭 Full-Stack Developer · Founder · Builder from Cambodia
 
-[![Teng-Prime Website](https://img.shields.io/badge/🌐_CodeKhmerLearning-codekhmerlearning.site-0f6e56?style=flat-square)](https://tengprime.site)
+[![Teng-Prime Website](https://img.shields.io/badge/🌐_Teng-Prime-Website-0f6e56?style=flat-square)](https://tengprime.site)
 
 
 ---
