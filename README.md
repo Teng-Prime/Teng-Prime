@@ -11,7 +11,7 @@
 
 > **Technology Cambodia** · [tech-cambodia.com](https://tech-cambodia.com)
 >
-> **មិនបារម្ភរឿងភាសា! និស្សិតខ្មែរមួយរូបបង្កើតវេបសាយរៀនកូដជាភាសាជាតិ ជួយសម្រួលដល់ការស្រាវជ្រាវ IT**
+> **គ្រប់ Repository អាចទាញយកទៅប្រើប្រាស់តាមចិត្ត! ជួយសម្រួលដល់ការស្រាវជ្រាវ IT**
 >
 > *"The Repository is available for download and use! Helps facilitate IT research"*
 
