@@ -13,7 +13,7 @@
 >
 > **មិនបារម្ភរឿងភាសា! និស្សិតខ្មែរមួយរូបបង្កើតវេបសាយរៀនកូដជាភាសាជាតិ ជួយសម្រួលដល់ការស្រាវជ្រាវ IT**
 >
-> *"No language barrier! A Cambodian student built a coding learning website in the national language, making IT research more accessible."*
+> *"The Repository is available for download and use! Helps facilitate IT research"*
 
 ---
 
@@ -21,8 +21,7 @@
 
 I'm a passionate **Full-Stack Developer** based in Cambodia 🇰🇭, dedicated to making programming education more accessible in the **Khmer language**.
 
-- 🏗️ **Founder** of [CodeKhmerLearning](https://codekhmerlearning.site) — Interactive coding education in Khmer *(Featured by Technology Cambodia)*
-- 🎬 **Founder** of [CodeKhmerVideo](https://codekhmervideo.site) — Video tutorials for Khmer developers · Powered by **PostgreSQL**
+- 🏗️ **Founder** of [Teng-Prime](https://tengprime.site) — Interactive coding education *(Featured by Technology Cambodia)*
 - 🔭 Currently building & scaling both platforms
 - 🌱 Deepening expertise in **FastAPI + PostgreSQL** microservices
 - 👯 Open to collaborate on **EdTech** & **Open Source Khmer Dev Tools**
@@ -61,8 +60,7 @@ I'm a passionate **Full-Stack Developer** based in Cambodia 🇰🇭, dedicated 
 
 | Platform | Link |
 |---|---|
-| 🌐 CodeKhmerLearning | [codekhmerlearning.site](https://codekhmerlearning.site) |
-| 📺 CodeKhmerVideo | [codekhmervideo.site](https://codekhmervideo.site) |
+| 🌐 Teng-Prime | [tengprime.site](https://tengprime.site) |
 | 🐙 GitHub | [@Teng-Prime](https://github.com/Teng-Prime) |
 | 📘 Facebook | [TengPrimeCoder](https://www.facebook.com/TengPrimeCoder) |
 | 💼 LinkedIn | [lyteng-ngy](https://www.linkedin.com/in/lyteng-ngy-340310404/) |
