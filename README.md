@@ -9,7 +9,7 @@
 
 ## 🗞️ Featured In
 
-> **Technology Cambodia** · [tech-cambodia.com](https://tech-cambodia.com)
+> **Technology Cambodia** · [tengprime.com](https://tengprime.com)
 >
 > **គ្រប់ Repository អាចទាញយកទៅប្រើប្រាស់តាមចិត្ត! ជួយសម្រួលដល់ការស្រាវជ្រាវ IT**
 >
