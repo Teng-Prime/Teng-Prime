@@ -1,4 +1,4 @@
-# Hi there, I'm **Teng-Prime** 👋
+# Hi there, I'm **Teng** 👋
 
 🇰🇭 Full-Stack Developer · Founder · Builder from Cambodia
 
